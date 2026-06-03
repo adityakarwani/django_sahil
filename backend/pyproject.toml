@@ -9,5 +9,6 @@ dependencies = [
     "django-cors-headers>=4.9.0",
     "djangorestframework>=3.17.1",
     "mysqlclient>=2.2.8",
+    "psycopg2-binary>=2.9.12",
     "python-dotenv>=1.2.2",
 ]
